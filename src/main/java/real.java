@@ -6,5 +6,6 @@
 public class real {
     public static void main(String[] args) {
         System.out.println("zhendema");
+        System.out.println(123);
     }
 }
